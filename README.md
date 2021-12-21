@@ -1,8 +1,8 @@
 <h1 align ="center">Assignment2</h1>
 
-##How to deploy files into git ?    
-###We create a new file under our project/folder and name the file.    
-###On the terminal, we push the file to git by using the following command:
+## How to deploy files into git ?    
+### We create a new file under our project/folder and name the file.    
+### On the terminal, we push the file to git by using the following command:
 ```sh
 git add . 
 git commit -m "added filename " 
