@@ -1,13 +1,13 @@
 <h1 align ="center">Assignment2</h1>
 
-<ol>
-    <li> How to deploy files into git ?  </li>  
-        <li>We create a new file on under our project.</li>
-        <li>We push the file to git by using the following command:</li>
-        <li>*git add . </li>
-        <li>*git commit -m "added filename: </li>
-        <li>*git push</li>
-</ol>
+##How to deploy files into git ?    
+###We create a new file under our project/folder and name the file.    
+###On the terminal, we push the file to git by using the following command:
+```sh
+git add . 
+git commit -m "added filename " 
+git push
+```
 
 
 ## Why SSH is used over HTTPs?   
