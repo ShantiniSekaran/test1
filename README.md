@@ -1,4 +1,4 @@
-<h1 align ="center">Assignment2</h1>
+<h1 align ="center">Assignment2-Question1</h1>
 
 ## How to deploy files into git ?    
 #### 1. We create a new file under our project/folder in VS Code and name the file.
@@ -8,7 +8,6 @@ git add .
 git commit -m "added filename " 
 git push
 ```
-
 
 ## Why SSH is used over HTTPs ?   
 #### 1. SSH means "secured shell".
